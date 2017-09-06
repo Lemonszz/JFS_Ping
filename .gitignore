@@ -1,0 +1,5 @@
+jfs_ping/bin/*
+jfs_ping/channels_reddit.json
+jfs_ping/channels_twitch.json
+jfs_ping/channels_yt.json
+jfs_ping/settings.json

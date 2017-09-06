@@ -1,0 +1,9 @@
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\bin\Debug\netcoreapp1.1\jfs_ping.deps.json
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\bin\Debug\netcoreapp1.1\jfs_ping.runtimeconfig.json
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\bin\Debug\netcoreapp1.1\jfs_ping.runtimeconfig.dev.json
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\bin\Debug\netcoreapp1.1\jfs_ping.dll
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\obj\Debug\netcoreapp1.1\jfs_ping.csprojResolveAssemblyReference.cache
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\obj\Debug\netcoreapp1.1\jfs_ping.AssemblyInfo.cs
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\bin\Debug\netcoreapp1.1\jfs_ping.pdb
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\obj\Debug\netcoreapp1.1\jfs_ping.dll
+c:\users\spyin\documents\visual studio 2017\Projects\jfs_ping\jfs_ping\obj\Debug\netcoreapp1.1\jfs_ping.pdb
